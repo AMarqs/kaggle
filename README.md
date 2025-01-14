@@ -18,11 +18,10 @@ I am going to use this repository to upload the Kaggle courses I complete.
 
 ## In progress
 
-
+- Python
 
 ## To do
 
-- Python
 - Intro to Machine Learning
 - Intermediate Machine Learning
 - Machine Learning Explainability
