@@ -8,19 +8,21 @@ I am going to use this repository to upload the Kaggle courses I complete.
 
 ## Completed
 
-<!--### Pyhton
-### Machine Learning
+### Pyhton
+
+- Intro to Programming with Python
+
+<!--### Machine Learning
 ### SQL
 ### Deep Learning -->
 
 ## In progress
 
-- Intro to Programming with Python
+
 
 ## To do
 
 - Python
-
 - Intro to Machine Learning
 - Intermediate Machine Learning
 - Machine Learning Explainability
